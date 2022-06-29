@@ -1,6 +1,6 @@
 ## FlappyShark
 
-#This is one simple game i have designed as my project
+This is one simple game i have designed as my project
 
 # DESCRIPTION:
 When you download the game, you only need to open the
