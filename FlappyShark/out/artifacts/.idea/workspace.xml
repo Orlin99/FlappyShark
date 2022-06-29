@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23978085-520a-4c3d-95f7-3b904554c34e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../src/FlappyShark.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gradle/7.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gradle/7.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/artifacts/FlappyShark_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Flappy Shark tutorial (to become PRO).mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FlappyShark.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/org/example/FlappyShark.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/classes/java/main/org/example/FlappyShark.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/org/example/Instructions.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/classes/java/main/org/example/Instructions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/classes/java/main/org/example/Renderer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/classes/java/main/org/example/Renderer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/resources/main/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/resources/main/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlappyShark_jar/FlappyShark.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlappyShark_jar/FlappyShark.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlappyShark_jar/FlappyShark.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/org/example/FlappyShark.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/main/java/org/example/FlappyShark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/org/example/Instructions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/main/java/org/example/Instructions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/org/example/Renderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/main/java/org/example/Renderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/org/example/backGround.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/org/example/backGroundImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/org/example/backGround_ORIGINAL.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/org/example/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/org/example/theBarrier.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/org/example/theFish.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/org/example/theFish_ORIGINAL.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/org/example/theVoid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../orlin-ivanov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tradingtasks" beforeDir="false" afterPath="$PROJECT_DIR$/../../../tradingtasks" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2B8EwaVUDhL1mhSqz0pK5Jldqhz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "C:/Users/IVO/IdeaProjects/IdeaProjects/FlappyShark",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23978085-520a-4c3d-95f7-3b904554c34e" name="Changes" comment="" />
+      <created>1656279551296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656279551296</updated>
+    </task>
+    <servers />
+  </component>
+</project>
